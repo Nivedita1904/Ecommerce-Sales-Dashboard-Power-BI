@@ -15,4 +15,5 @@ This Power BI dashboard analyzes sales, profit, quantity, product performance, a
 - Compared regional performance
 
 ## Dashboard Preview
-(Add screenshot here)
+<img width="1291" height="741" alt="image" src="https://github.com/user-attachments/assets/98f7b4e4-7184-44ad-8209-65c461623977" />
+
